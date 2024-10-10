@@ -1,3 +1,4 @@
-This is my First GitHub Repository.
+Hello!!
 <br>
-I am going to drop solutions for CodeForces Problems.
+Im gonna drop solutions for CodeForces Problems here.
+
